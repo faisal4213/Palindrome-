@@ -1,0 +1,13 @@
+#input{
+    font-size: 2rem;
+}
+button{
+    font-size: 2rem;
+    margin-left: .5rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+body{
+    background-color: rgb(0, 128, 119);
+}
