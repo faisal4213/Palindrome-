@@ -23,6 +23,8 @@ function check() {
         alert("N O T  P A L I N D R O M E");
     }
 
+    input.value = ""
+
 
 
     
